@@ -1,4 +1,4 @@
-# Project Name: EliveN
+# Project Name: EliveN-Evil-Twin
 
 ## Description
 EliveN is a tool developed for monitoring network traffic and executing "evil twin" (man-in-the-middle) attacks. This project enables users to test network security and identify potential vulnerabilities. The tool is written in Bash programming language.
