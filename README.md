@@ -10,7 +10,7 @@ EliveN is a tool developed for monitoring network traffic and executing "evil tw
 - **Data Reporting**: Generate detailed reports on network activities.
 
 ## Requirements
-- **Bash**: [Version information]
+- **Bash**:
 - **Required Tools**: 
   - `tcpdump`
   - `curl`
