@@ -19,3 +19,5 @@ EliveN is a tool developed for monitoring network traffic and executing "evil tw
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/EliveN22/EliveN.git
+   cd EliveN-Evil-Twin
+   bash eliven.sh
