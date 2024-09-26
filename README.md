@@ -2,6 +2,7 @@
 
 ## Description
 EliveN is a tool developed for monitoring network traffic and executing "evil twin" (man-in-the-middle) attacks. This project enables users to test network security and identify potential vulnerabilities. The tool is written in Bash programming language.
+EliveN is a tool used for conducting security tests on wireless networks. It can crack WPA/WPA2 and WEP passwords, create malicious networks, exploit WPS vulnerabilities, and scan wireless networks. It is used by ethical hackers and security experts and should not be used for illegal purposes.
 
 ## Features
 - **Network Traffic Monitoring**: Analyze and log real-time network traffic.
